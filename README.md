@@ -38,9 +38,9 @@ Investigation of **Limit Cycle Oscillations (LCO)** induced by actuator free-pla
 ---
 
 ## 📂 Repository Structure
-* `/01-goland-wing-analysis`: Fixed-wing FEM and flutter scripts.
-* `/02-puma-blade-stability`: Rotor blade hover stability and maps.
-* `/03-nonlinear-lco-wing`: Nonlinear actuator dynamics and LCO solvers.
+* `/01_Goland_wing_analysis`: Fixed-wing FEM and flutter scripts.
+* `/02_Puma_blade_stability`: Rotor blade hover stability and maps.
+* `/03_Nonlinear_lco_wing`: Nonlinear actuator dynamics and LCO solvers.
 
 ## 👨‍💻 Author
 **Alejandro Rivera Míguez** *M.Sc. Aeronautical Engineering, Politecnico di Milano* *Professor: Giuseppe Quaranta*
